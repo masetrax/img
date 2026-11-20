@@ -35,7 +35,24 @@
   "Pratt & Moody": null,
   "Jasmine Myra": null,
   "Jessica Lauren": null,
-  "Land Of Echo": null
+  "Land Of Echo": null,
+  "Sabrina Chyld": "chyldsings",
+  "DJ Linus": "djlinus_official",
+  "S. Fidelity": "s_fidelity",
+  "Arosa": "rafael_arosa",
+  "New Regency Orchestra": "new.regency.orchestra",
+  "Michi": "michiguerrero",
+  "Slowe": "slowemusic",
+  "Mackwood": "mackwood.ling",
+  "Otis Kane": "otis.kane",
+  "Stimulator Jones": null,
+  "Sam Crowe": null,
+  "Rory Green": null,
+  "David Walters": null,
+  "Adam Freeland": null,
+  "Chocolate Star": null,
+  "Lorenzo Morresi": null,
+  "Billy Hare": null
  },
  "labels": {
   "Bastard Jazz": "bastardjazz",
@@ -58,7 +75,9 @@
   "Wonderwheel": null,
   "First Word": null,
   "Music For Dreams": null,
-  "Mr Bongo": null
+  "Mr Bongo": null,
+  "We Jazz": "wejazzhelsinki",
+  "Marine Parade": null
  },
  "checked": {
   "Brainstory": "2026-11-14",
@@ -117,12 +136,33 @@
   "Wonderwheel": "2026-11-14",
   "First Word": "2026-11-14",
   "Music For Dreams": "2026-11-14",
-  "Mr Bongo": "2026-11-14"
+  "Mr Bongo": "2026-11-14",
+  "Sabrina Chyld": "2026-11-21",
+  "DJ Linus": "2026-11-21",
+  "S. Fidelity": "2026-11-21",
+  "Arosa": "2026-11-21",
+  "New Regency Orchestra": "2026-11-21",
+  "Michi": "2026-11-21",
+  "Slowe": "2026-11-21",
+  "Mackwood": "2026-11-21",
+  "Otis Kane": "2026-11-21",
+  "Stimulator Jones": "2026-11-21",
+  "Sam Crowe": "2026-11-21",
+  "Rory Green": "2026-11-21",
+  "David Walters": "2026-11-21",
+  "Adam Freeland": "2026-11-21",
+  "Chocolate Star": "2026-11-21",
+  "Lorenzo Morresi": "2026-11-21",
+  "Billy Hare": "2026-11-21",
+  "We Jazz": "2026-11-21",
+  "Marine Parade": "2026-11-21"
  },
  "notes": {
   "Josh Johnson": "agency page eclipseprojects.org links joshuaajohn; not on an allowed official source yet",
   "Damon Locks": "International Anthem links his project blackmonumentensemble, not a personal account",
   "Daga Voladora": "band Bandcamp links chiuchium (member Cristina Plaza's account)",
-  "Dave Guy": "Big Crown artist page links hashtag.daveguy"
+  "Dave Guy": "Big Crown artist page links hashtag.daveguy",
+  "Michi": "Stones Throw artist page links michiguerrero (not michi.bandcamp.com, a different artist)",
+  "Arosa": "arosa.bandcamp.com (Rio de Janeiro) links rafael_arosa"
  }
 }
